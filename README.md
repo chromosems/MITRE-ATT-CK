@@ -9,12 +9,10 @@ Learning about MITRE ATT&CK, a framework that enables organisations to understan
 - Discovering Vulnerable Endpoints
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
 - wazuh manager.
 - Ubuntu client
 
 ## Steps
 - Starting the vm ,login and capture the IP address. Onces the IP is captured, open brwoser and and use URL (wazuh ip address) to login  to wazuh GUI
 - <img width="362" alt="image" src="https://github.com/chromosems/MITRE-ATT-CK/assets/44053943/0105f4b9-71d4-411b-863d-d955838a16c1">
-*Ref 1:vm login *
+-*Ref 1:vm login*
